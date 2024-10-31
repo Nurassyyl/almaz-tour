@@ -1344,6 +1344,7 @@ hr {
 
   .season-content {
     padding: 10px;
+    align-items: center;
   }
 
   .season-content-info__text {
@@ -1357,6 +1358,13 @@ hr {
 
   .cities-content {
     padding: 10px;
+    align-items: center;
+  }
+
+  .cities-content-info, 
+  .cities-content-price {
+    margin-left: 0;
+    text-align: center;
   }
 
   .swiper-fullname {

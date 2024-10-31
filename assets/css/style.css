@@ -1338,6 +1338,12 @@ hr {
     padding: 10px 0;
   }
 
+  .burger:hover span,
+  .burger:hover::after,
+  .burger:hover::before {
+    background-color: #FFFFFF;
+  }
+
   .seasons-title {
     font-size: 20px;
   }
